@@ -1,2 +1,3 @@
-# project-108-MCQBank
-A javafx program that make a question bank text file and use to add, edit, delete, and test the questions
+# Question bank
+A software that allows teachers to insert questions to a test bank to be later used in online 
+exams using Java and JavaFX.
